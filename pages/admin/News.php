@@ -167,6 +167,12 @@
                   <p>Manage NewImage</p>
                 </a>
               </li>
+              <li class="nav-item">
+                <a href="chatmaneger.php" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Manage Chat</p>
+                </a>
+              </li>
             </ul>
           </li>
         </ul>

@@ -94,7 +94,7 @@
                           <a class="nav-link" href="Category.php">Category</a>
                         </li>              
                         <li class="nav-item">
-                          <a class="nav-link" href="#">Contact</a>
+                          <a class="nav-link" href="send.html">Contact</a>
                         </li>
                       </ul>
                     </div>
